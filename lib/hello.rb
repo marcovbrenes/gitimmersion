@@ -2,4 +2,4 @@
 # Author: Marcos Brenes (mbrenes@uncc.edu)
 name = ARGV.first || "World"
 
-puts "Hello, #{ARGV.name}!"
+puts "Hello, #{name}!"
